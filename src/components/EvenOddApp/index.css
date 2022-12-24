@@ -1,0 +1,21 @@
+.Div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.subdiv {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  padding: 37px;
+  border-radius: 18px;
+}
+.btn {
+  border-radius: 5px;
+  padding: 9px;
+}
